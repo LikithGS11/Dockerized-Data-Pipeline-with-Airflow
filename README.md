@@ -217,13 +217,11 @@ docker-compose exec airflow-worker airflow dags trigger stock_pipeline
 # List DAGs
 docker-compose exec airflow-worker airflow dags list
 ```
-
 ## API Rate Limits
 
 Alpha Vantage free tier limits:
 - 5 API calls per minute
-
----
 - 500 API calls per day
 
 Adjust your schedule accordingly or consider premium plans for higher limits.
+---
