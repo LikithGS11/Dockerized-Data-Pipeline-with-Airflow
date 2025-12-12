@@ -222,6 +222,6 @@ docker-compose exec airflow-worker airflow dags list
 Alpha Vantage free tier limits:
 - 5 API calls per minute
 - 500 API calls per day
-Adjust your schedule accordingly or consider premium plans for higher limits.
+-Adjust your schedule accordingly or consider premium plans for higher limits.
 
 ---
